@@ -1,3 +1,4 @@
-.venv
-.vscode
-Lib/site-pacakages/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
