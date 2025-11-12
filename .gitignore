@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# MLflow experiment tracking
+mlruns/
+mlartifacts/
+**/mlruns/
+**/mlartifacts/
